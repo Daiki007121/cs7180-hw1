@@ -16,7 +16,7 @@ hw1/
 └── template.md        Reusable template
 ```
 
-**Total:** 15 tests passing ✅
+**Total:** 20 tests passing ✅
 
 ---
 
